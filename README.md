@@ -1,31 +1,39 @@
-🌐 NeuroMesh
-NeuroMesh is a demo website I created to practice HTML, CSS, and media queries.
-The goal of this project is to improve my responsive web design skills while building a clean, simple layout.
+# 🌐 NeuroMesh
 
-✨ Features
-📄 Well-structured HTML markup
+**NeuroMesh** is a demo website I created to practice **HTML** and **CSS**.
+The goal of this project is to build a clean and simple layout while improving my web design skills.
 
-🎨 Custom CSS styling for layout & design
+---
 
-📱 Responsive design with media queries for mobile, tablet, and desktop
+## ✨ Features
 
-🎯 Purpose
-This project was built for practice and learning.
+* 📄 Well-structured HTML markup
+* 🎨 Custom CSS styling for layout & design
+
+---
+
+## 🎯 Purpose
+
+This project was built for **practice and learning**.
 Through this project, I practiced:
 
-HTML tags and semantic structure
+* HTML tags and semantic structure
+* CSS styling and positioning techniques
+* Creating visually appealing layouts
 
-CSS styling and positioning techniques
+---
 
-Creating layouts that adapt to different screen sizes
+## 🚀 Future Plans
 
-🚀 Future Plans
-🔹 Add JavaScript functionality once I learn it
+* 🔹 Add JavaScript functionality once I learn it
+* 🔹 Continue improving the website as part of my learning journey
+* 🔹 Add animations and interactive elements
 
-🔹 Continue improving the website as part of my learning journey
+---
 
-🔹 Enhance responsiveness and add animations
+## 📌 Project Status
 
-📌 Project Status
-⚒ In Development — More features will be added as I progress in learning
-✅ Current version is functional with HTML, CSS, and media queries
+⚒ **In Development** — More features will be added as I progress in learning
+✅ Current version is functional with HTML and CSS
+
+---
